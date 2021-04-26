@@ -1,6 +1,6 @@
 # Custom SVG taskbar icons for Telegram for KDE-Breeze
 
-### Example
+### Example. KDE, Breeze Dark
 ![muted chats](example/muted_chats.png "Muted chats")
 ![unmuted chats](example/unmuted_chats.png "Unmuted chats")
 
